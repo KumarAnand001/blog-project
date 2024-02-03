@@ -1,0 +1,36 @@
+.content{
+
+    width:60%;
+    float: left;
+    padding: 0 0 0 30px;
+    background: red;
+    height: 100%;
+}
+
+.sidebar{
+
+    width: 40%;
+    float: right;
+    padding: 20px;
+    background: green;
+    height: 100%;
+}
+
+h1{
+
+    text-align: center;
+    border-bottom: 1px solid yellow;
+    padding-bottom: 10px;
+}
+
+body{
+
+    color: white;
+    background: red;
+}
+
+#date{
+
+    color: yellow;
+    font-size: 10px;
+}
